@@ -1,0 +1,18 @@
+20/06/2025 10:30 - Bruno: Salário +2500
+20/06/2025 11:00 - Maria Eduarda: Almoço -35
+20/06/2025 14:15 - Júlia: Transporte -15
+21/06/2025 17:00 - Maria Eduarda: Padaria -20
+21/06/2025 17:00 - Maria Eduarda: Cartão +100
+21/06/2025 17:00 - Maria Eduarda: Mercado -100
+22/06/2025 09:00 - Bruno: Academia -80
+22/06/2025 13:00 - Lucas: Lazer -50
+23/06/2025 18:30 - Júlia: Supermercado -120
+24/06/2025 08:00 - Carolina: Contas -300
+24/06/2025 10:00 - Maria Eduarda: Presente +50
+25/06/2025 16:45 - Maria Eduarda: Uber -25
+25/06/2025 19:00 - Lucas: Jantar -70
+26/06/2025 12:00 - Júlia: Farmácia -45
+26/06/2025 15:00 - Carolina: Transferência +200
+26/06/2025 20:00 - Maria Eduarda: Pizza -60
+27/06/2025 09:30 - Bruno: Café -10
+27/06/2025 11:00 - Maria Eduarda: Cinema -40
