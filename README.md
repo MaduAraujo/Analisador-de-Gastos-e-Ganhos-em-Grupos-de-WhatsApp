@@ -41,11 +41,11 @@ pip install pandas matplotlib
       * Escolha "Sem mídia" para exportar apenas o texto.
       * Salve este arquivo de texto com o nome **`conversas_whatsapp.txt`** no **mesmo diretório** onde você salvou o script Python (`analisador_financeiro.py`).
 
-    > **Formato da Mensagem:** Para que o script funcione corretamente, suas mensagens de transação devem seguir um padrão específico:
+     **Formato da Mensagem:** Para que o script funcione corretamente, suas mensagens de transação devem seguir um padrão específico:
 
     > `[Data e Hora] - [Nome do Remetente]: [Categoria da Transação] [+/-Valor]`
 
-    > **Exemplos Válidos:**
+     **Exemplos Válidos:**
 
     >   * `21/06/2025 17:00 - Maria Eduarda: Padaria -20`
     >   * `21/06/2025 17:00 - Maria Eduarda: Cartão +100`
