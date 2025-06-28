@@ -71,3 +71,9 @@ O script irá imprimir no console as tabelas de gastos e ganhos, o maior gasto, 
   * Gráfico de Barras: Ganhos Mensais
   * Gráfico de Barras: Top 10 Gastos por Categoria
   * Gráfico de Barras: Top 10 Gastos por Pessoa (Remetente)
+
+## Projeto Funcionando
+
+https://github.com/user-attachments/assets/123dcb78-dabd-404f-8416-f0b4fdacdd76
+
+
